@@ -17,34 +17,34 @@ Player #1: Victor Osimhen
 Role: FW
 Team: Napoli
 Born In: 1998
-Delta: 5.57916
+Delta: 5.01267
 
 
 Player #2: Dušan Vlahović
 Role: FW
 Team: Juventus
 Born In: 2000
-Delta: 6.66639
+Delta: 6.28653
 
 
 Player #3: Albert Guðmundsson
 Role: FW,MF
 Team: Genoa
 Born In: 1997
-Delta: 7.59034
+Delta: 6.55684
 
 
 Player #4: Paulo Dybala
 Role: FW,MF
 Team: Roma
 Born In: 1993
-Delta: 8.07077
+Delta: 7.76175
 
 
-Player #5: Nicolás González
-Role: FW
-Team: Fiorentina
-Born In: 1998
-Delta: 8.91129
+Player #5: Riccardo Orsolini
+Role: FW,MF
+Team: Bologna
+Born In: 1997
+Delta: 8.12772
 
 
