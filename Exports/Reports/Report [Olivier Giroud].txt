@@ -1,0 +1,50 @@
+The reference player is Olivier Giroud
+Below is a list of the players most similar to the player mentioned above,
+ordered from most to least similar via Euclidean distance sampling.
+
+
+Please note that the values returned by the model are not filtered by any role.
+You can add or change the role filter in the algorithm configuration section at any time.
+
+
+The league filter is set to display the following teams: Serie A
+You can also change this setting at any time in the Model Configuration Section.
+
+
+─────────────────────────
+
+Player #1: Victor Osimhen
+Role: FW
+Team: Napoli
+Born In: 1998
+Delta: 5.57916
+
+
+Player #2: Dušan Vlahović
+Role: FW
+Team: Juventus
+Born In: 2000
+Delta: 6.66639
+
+
+Player #3: Albert Guðmundsson
+Role: FW,MF
+Team: Genoa
+Born In: 1997
+Delta: 7.59034
+
+
+Player #4: Paulo Dybala
+Role: FW,MF
+Team: Roma
+Born In: 1993
+Delta: 8.07077
+
+
+Player #5: Nicolás González
+Role: FW
+Team: Fiorentina
+Born In: 1998
+Delta: 8.91129
+
+

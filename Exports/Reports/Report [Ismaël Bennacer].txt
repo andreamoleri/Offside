@@ -1,0 +1,132 @@
+The reference player is Ismaël Bennacer
+Below is a list of the players most similar to the player mentioned above,
+ordered from most to least similar via Euclidean distance sampling.
+
+Please note that the values returned by the model are not filtered by any role. 
+You can add or change the role filter in the algorithm configuration section at any time.
+
+The league filter is set to display the following teams: Serie A, Premier League, Bundesliga, La Liga, Ligue 1, Eredivisie
+You can also change this setting at any time in the Model Configuration Section.
+
+─────────────────────────
+
+Player #1: Lasse Schöne
+Role: MF
+Team: NEC Nijmegen
+Born In: 1986
+Delta: 1.29919
+
+Player #2: Ablie Jallow
+Role: MF,FW
+Team: Metz
+Born In: 1998
+Delta: 1.54754
+
+Player #3: Justin Lonwijk
+Role: FW,MF
+Team: Fortuna Sittard
+Born In: 1999
+Delta: 1.75029
+
+Player #4: Mohamed Camara
+Role: MF
+Team: Monaco
+Born In: 2000
+Delta: 1.79880
+
+Player #5: Abdou Harroui
+Role: MF,FW
+Team: Frosinone
+Born In: 1998
+Delta: 1.94240
+
+Player #6: Josip Juranović
+Role: DF
+Team: Union Berlin
+Born In: 1995
+Delta: 1.95605
+
+Player #7: Christian Eriksen
+Role: MF
+Team: Manchester Utd
+Born In: 1992
+Delta: 2.04299
+
+Player #8: Carlos Soler
+Role: MF,DF
+Team: Paris S-G
+Born In: 1997
+Delta: 2.13292
+
+Player #9: Julian Justvan
+Role: MF,FW
+Team: Darmstadt 98
+Born In: 1998
+Delta: 2.14662
+
+Player #10: Gabriel Strefezza
+Role: FW
+Team: Lecce
+Born In: 1997
+Delta: 2.14677
+
+Player #11: Philipp Max
+Role: DF
+Team: Eint Frankfurt
+Born In: 1993
+Delta: 2.22198
+
+Player #12: Reinier
+Role: MF,FW
+Team: Frosinone
+Born In: 2002
+Delta: 2.23678
+
+Player #13: Raúl de Tomás
+Role: FW
+Team: Rayo Vallecano
+Born In: 1994
+Delta: 2.25080
+
+Player #14: Lewis Miley
+Role: MF
+Team: Newcastle Utd
+Born In: 2006
+Delta: 2.25089
+
+Player #15: Joshua Brenet
+Role: DF
+Team: Twente
+Born In: 1994
+Delta: 2.27350
+
+Player #16: Alex Scott
+Role: MF
+Team: Bournemouth
+Born In: 2003
+Delta: 2.28718
+
+Player #17: Issiaga Sylla
+Role: DF,FW
+Team: Montpellier
+Born In: 1994
+Delta: 2.29279
+
+Player #18: Jóhann Berg Guðmundsson
+Role: MF,FW
+Team: Burnley
+Born In: 1990
+Delta: 2.29691
+
+Player #19: Imran Louza
+Role: MF
+Team: Lorient
+Born In: 1999
+Delta: 2.31816
+
+Player #20: Waren Kamanzi
+Role: DF,FW
+Team: Toulouse
+Born In: 2000
+Delta: 2.32284
+
