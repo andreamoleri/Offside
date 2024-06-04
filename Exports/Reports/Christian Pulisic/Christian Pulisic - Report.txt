@@ -1,0 +1,225 @@
+The reference player is Christian Pulisic
+Below is a list of the players most similar to the player mentioned above,
+ordered from most to least similar via Euclidean distance sampling.
+
+
+Please note that the values returned by the model are not filtered by any role.
+You can add or change the role filter in the algorithm configuration section at any time.
+
+
+The league filter is set to display the following teams: Serie A, Premier League, Bundesliga, La Liga, Ligue 1, Eredivisie
+You can also change this setting at any time in the Model Configuration Section.
+
+
+─────────────────────────
+
+Player #1: Jeremie Frimpong
+Role: DF
+Team: Leverkusen
+Born In: 2000
+Delta: 2.99787
+
+
+Player #2: Ademola Lookman
+Role: FW,MF
+Team: Atalanta
+Born In: 1997
+Delta: 3.43400
+
+
+Player #3: Rodrygo
+Role: FW
+Team: Real Madrid
+Born In: 2001
+Delta: 3.45218
+
+
+Player #4: Iñaki Williams
+Role: FW
+Team: Athletic Club
+Born In: 1994
+Delta: 3.50769
+
+
+Player #5: Charles De Ketelaere
+Role: FW,MF
+Team: Atalanta
+Born In: 2001
+Delta: 3.64791
+
+
+Player #6: Chris Führich
+Role: FW,MF
+Team: Stuttgart
+Born In: 1998
+Delta: 3.72375
+
+
+Player #7: Osame Sahraoui
+Role: FW
+Team: Heerenveen
+Born In: 2001
+Delta: 3.87304
+
+
+Player #8: Mohammed Kudus
+Role: FW,MF
+Team: West Ham
+Born In: 2000
+Delta: 3.93684
+
+
+Player #9: Luis Díaz
+Role: FW
+Team: Liverpool
+Born In: 1997
+Delta: 3.93961
+
+
+Player #10: Viktor Tsyhankov
+Role: MF,FW
+Team: Girona
+Born In: 1997
+Delta: 3.95680
+
+
+Player #11: Leon Bailey
+Role: MF,FW
+Team: Aston Villa
+Born In: 1997
+Delta: 4.02481
+
+
+Player #12: Jarrod Bowen
+Role: FW
+Team: West Ham
+Born In: 1996
+Delta: 4.05341
+
+
+Player #13: Sávio
+Role: FW,MF
+Team: Girona
+Born In: 2004
+Delta: 4.05935
+
+
+Player #14: Rafael Leão
+Role: FW
+Team: Milan
+Born In: 1999
+Delta: 4.10388
+
+
+Player #15: Duván Zapata
+Role: FW
+Team: Torino
+Born In: 1991
+Delta: 4.12309
+
+
+Player #16: Jamal Musiala
+Role: MF,FW
+Team: Bayern Munich
+Born In: 2003
+Delta: 4.18016
+
+
+Player #17: Khvicha Kvaratskhelia
+Role: FW
+Team: Napoli
+Born In: 2001
+Delta: 4.21780
+
+
+Player #18: Moussa Diaby
+Role: FW,MF
+Team: Aston Villa
+Born In: 1999
+Delta: 4.21886
+
+
+Player #19: Daan Rots
+Role: FW
+Team: Twente
+Born In: 2001
+Delta: 4.22774
+
+
+Player #20: Raheem Sterling
+Role: FW,MF
+Team: Chelsea
+Born In: 1994
+Delta: 4.31339
+
+
+Player #21: Johan Bakayoko
+Role: FW
+Team: PSV Eindhoven
+Born In: 2003
+Delta: 4.33081
+
+
+Player #22: Igor Paixão
+Role: FW
+Team: Feyenoord
+Born In: 2000
+Delta: 4.37248
+
+
+Player #23: Yankuba Minteh
+Role: FW
+Team: Feyenoord
+Born In: 2004
+Delta: 4.40605
+
+
+Player #24: Alejandro Garnacho
+Role: FW
+Team: Manchester Utd
+Born In: 2004
+Delta: 4.42776
+
+
+Player #25: Florian Wirtz
+Role: MF
+Team: Leverkusen
+Born In: 2003
+Delta: 4.43292
+
+
+Player #26: Takumi Minamino
+Role: MF
+Team: Monaco
+Born In: 1995
+Delta: 4.46818
+
+
+Player #27: Matheus Cunha
+Role: FW,MF
+Team: Wolves
+Born In: 1999
+Delta: 4.48172
+
+
+Player #28: Andrea Colpani
+Role: MF,FW
+Team: Monza
+Born In: 1999
+Delta: 4.55361
+
+
+Player #29: Anthony Elanga
+Role: FW,MF
+Team: Nott'ham Forest
+Born In: 2002
+Delta: 4.57136
+
+
+Player #30: Gabriel Martinelli
+Role: FW
+Team: Arsenal
+Born In: 2001
+Delta: 4.58982
+
+

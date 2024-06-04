@@ -1,0 +1,225 @@
+The reference player is Samuel Chukwueze
+Below is a list of the players most similar to the player mentioned above,
+ordered from most to least similar via Euclidean distance sampling.
+
+
+Please note that the values returned by the model are not filtered by any role.
+You can add or change the role filter in the algorithm configuration section at any time.
+
+
+The league filter is set to display the following teams: Serie A, Premier League, Bundesliga, La Liga, Ligue 1, Eredivisie
+You can also change this setting at any time in the Model Configuration Section.
+
+
+─────────────────────────
+
+Player #1: Riccardo Sottil
+Role: FW
+Team: Fiorentina
+Born In: 1999
+Delta: 1.10431
+
+
+Player #2: Alex Sola
+Role: FW,MF
+Team: Alavés
+Born In: 1999
+Delta: 1.24332
+
+
+Player #3: Reda Khadra
+Role: FW,MF
+Team: Reims
+Born In: 2001
+Delta: 1.43408
+
+
+Player #4: Ismail Jakobs
+Role: DF
+Team: Monaco
+Born In: 1999
+Delta: 1.49015
+
+
+Player #5: Darius Johnson
+Role: FW,MF
+Team: Volendam
+Born In: 2000
+Delta: 1.51434
+
+
+Player #6: Jadon Sancho
+Role: FW,MF
+Team: Dortmund
+Born In: 2000
+Delta: 1.54939
+
+
+Player #7: Nedim Bajrami
+Role: MF,FW
+Team: Sassuolo
+Born In: 1999
+Delta: 1.61754
+
+
+Player #8: Sergi Canós
+Role: MF,FW
+Team: Valencia
+Born In: 1997
+Delta: 1.62818
+
+
+Player #9: Jamie Bynoe-Gittens
+Role: FW,MF
+Team: Dortmund
+Born In: 2004
+Delta: 1.63058
+
+
+Player #10: Carlos Forbs
+Role: FW
+Team: Ajax
+Born In: 2004
+Delta: 1.64815
+
+
+Player #11: Myron van Brederode
+Role: FW
+Team: AZ Alkmaar
+Born In: 2003
+Delta: 1.67458
+
+
+Player #12: Bilal Boutobba
+Role: FW,MF
+Team: Clermont Foot
+Born In: 1998
+Delta: 1.69606
+
+
+Player #13: Fran Garcia
+Role: DF
+Team: Real Madrid
+Born In: 1999
+Delta: 1.71318
+
+
+Player #14: Ângelo Borges
+Role: FW,MF
+Team: Strasbourg
+Born In: 2004
+Delta: 1.74154
+
+
+Player #15: Waren Kamanzi
+Role: DF,FW
+Team: Toulouse
+Born In: 2000
+Delta: 1.79077
+
+
+Player #16: Anis Hadj Moussa
+Role: FW
+Team: Vitesse
+Born In: 2002
+Delta: 1.79258
+
+
+Player #17: Dango Ouattara
+Role: FW,DF
+Team: Bournemouth
+Born In: 2002
+Delta: 1.79271
+
+
+Player #18: Ismaila Sarr
+Role: FW,MF
+Team: Marseille
+Born In: 1998
+Delta: 1.80704
+
+
+Player #19: Arsen Zakharyan
+Role: MF,FW
+Team: Real Sociedad
+Born In: 2003
+Delta: 1.80711
+
+
+Player #20: Krépin Diatta
+Role: DF,FW
+Team: Monaco
+Born In: 1999
+Delta: 1.85520
+
+
+Player #21: Yann Gboho
+Role: MF,FW
+Team: Toulouse
+Born In: 2001
+Delta: 1.85536
+
+
+Player #22: Adrià Pedrosa
+Role: DF
+Team: Sevilla
+Born In: 1998
+Delta: 1.86111
+
+
+Player #23: Mohamed Ali Cho
+Role: FW
+Team: Nice
+Born In: 2004
+Delta: 1.87140
+
+
+Player #24: Théo Le Bris
+Role: DF,MF
+Team: Lorient
+Born In: 2002
+Delta: 1.87626
+
+
+Player #25: Elliot Anderson
+Role: MF,FW
+Team: Newcastle Utd
+Born In: 2002
+Delta: 1.89291
+
+
+Player #26: Noah Weißhaupt
+Role: DF,FW
+Team: Freiburg
+Born In: 2001
+Delta: 1.91870
+
+
+Player #27: Angelo Fulgini
+Role: MF
+Team: Lens
+Born In: 1996
+Delta: 1.92536
+
+
+Player #28: Pervis Estupiñán
+Role: DF
+Team: Brighton
+Born In: 1998
+Delta: 1.96579
+
+
+Player #29: Gonçalo Guedes
+Role: FW,MF
+Team: Villarreal
+Born In: 1996
+Delta: 1.97107
+
+
+Player #30: Ché Nunnely
+Role: FW
+Team: Heerenveen
+Born In: 1999
+Delta: 1.98788
+
+
