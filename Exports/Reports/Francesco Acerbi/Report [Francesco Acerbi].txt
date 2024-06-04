@@ -1,0 +1,155 @@
+The reference player is Francesco Acerbi
+Below is a list of the players most similar to the player mentioned above,
+ordered from most to least similar via Euclidean distance sampling.
+
+
+Please note that the values returned by the model are not filtered by any role.
+You can add or change the role filter in the algorithm configuration section at any time.
+
+
+The league filter is set to display the following teams: Serie A, Premier League, Bundesliga, La Liga, Ligue 1, Eredivisie
+You can also change this setting at any time in the Model Configuration Section.
+
+
+─────────────────────────
+
+Player #1: Matteo Darmian
+Role: DF
+Team: Inter
+Born In: 1989
+Delta: 1.29946
+
+
+Player #2: Bart Vriends
+Role: DF
+Team: Sparta R'dam
+Born In: 1991
+Delta: 1.52690
+
+
+Player #3: Ethan Pinnock
+Role: DF
+Team: Brentford
+Born In: 1993
+Delta: 1.63084
+
+
+Player #4: Chancel Mbemba
+Role: DF
+Team: Marseille
+Born In: 1994
+Delta: 1.86265
+
+
+Player #5: Thiago Silva
+Role: DF
+Team: Chelsea
+Born In: 1984
+Delta: 1.87167
+
+
+Player #6: Ellyes Skhiri
+Role: MF
+Team: Eint Frankfurt
+Born In: 1995
+Delta: 1.93724
+
+
+Player #7: Daler Kuzyaev
+Role: MF
+Team: Le Havre
+Born In: 1993
+Delta: 1.96745
+
+
+Player #8: David López
+Role: DF
+Team: Girona
+Born In: 1989
+Delta: 1.97467
+
+
+Player #9: Nathan Aké
+Role: DF
+Team: Manchester City
+Born In: 1995
+Delta: 2.00141
+
+
+Player #10: Miloš Veljković
+Role: DF
+Team: Werder Bremen
+Born In: 1995
+Delta: 2.04457
+
+
+Player #11: Dan Burn
+Role: DF
+Team: Newcastle Utd
+Born In: 1992
+Delta: 2.04466
+
+
+Player #12: Frederic Guilbert
+Role: DF,MF
+Team: Strasbourg
+Born In: 1994
+Delta: 2.08397
+
+
+Player #13: Ismaël Traoré
+Role: DF
+Team: Metz
+Born In: 1986
+Delta: 2.14421
+
+
+Player #14: Sead Kolašinac
+Role: DF
+Team: Atalanta
+Born In: 1993
+Delta: 2.16452
+
+
+Player #15: Paweł Bochniewicz
+Role: DF
+Team: Heerenveen
+Born In: 1996
+Delta: 2.17180
+
+
+Player #16: Moi Gómez
+Role: MF,FW
+Team: Osasuna
+Born In: 1994
+Delta: 2.19038
+
+
+Player #17: Sven van Beek
+Role: DF
+Team: Heerenveen
+Born In: 1994
+Delta: 2.19748
+
+
+Player #18: Michael Pinto
+Role: DF
+Team: Vitesse
+Born In: 1993
+Delta: 2.21868
+
+
+Player #19: Gerrit Nauber
+Role: DF
+Team: Go Ahead Eag
+Born In: 1992
+Delta: 2.26531
+
+
+Player #20: Gautier Lloris
+Role: DF
+Team: Le Havre
+Born In: 1995
+Delta: 2.27918
+
+
