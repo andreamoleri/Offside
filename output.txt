@@ -1,0 +1,60 @@
+★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★
+MODEL PARAMETERS
+★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★
+
+Team: Manchester City
+Formation: 4-3-3
+
+★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★
+GOALKEEPERS RATINGS
+★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★
+
+Ederson                  : 1 / 100
+Stefan Ortega            : 0 / 100
+
+★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★
+DEFENDERS RATINGS
+★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★
+
+Kyle Walker              : 66 / 100
+Joško Gvardiol           : 53 / 100
+Manuel Akanji            : 38 / 100
+Rúben Dias               : 36 / 100
+Nathan Aké               : 28 / 100
+Rico Lewis               : 17 / 100
+John Stones              : 16 / 100
+Aymeric Laporte          : 0 / 100
+
+★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★
+MIDFIELDERS RATINGS
+★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★
+
+Bernardo Silva           : 100 / 100
+Rodri                    : 89 / 100
+Julián Álvarez           : 69 / 100
+Kevin De Bruyne          : 56 / 100
+Mateo Kovačić            : 29 / 100
+Matheus Nunes            : 20 / 100
+Kalvin Phillips          : 3 / 100
+Cole Palmer              : 0 / 100
+James Mcatee             : 0 / 100
+
+★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★
+FORWARDS RATINGS
+★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★
+
+Phil Foden               : 100 / 100
+Jeremy Doku              : 96 / 100
+Erling Haaland           : 54 / 100
+Jack Grealish            : 48 / 100
+Oscar Bobb               : 14 / 100
+Sergio Gómez             : 3 / 100
+
+★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★
+BEST FORMATION
+★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★
+
+Goalkeeper: Ederson
+Defenders: Kyle Walker, Joško Gvardiol, Manuel Akanji, Rúben Dias
+Midfielders: Bernardo Silva, Rodri, Julián Álvarez
+Attackers: Phil Foden, Jeremy Doku, Erling Haaland
