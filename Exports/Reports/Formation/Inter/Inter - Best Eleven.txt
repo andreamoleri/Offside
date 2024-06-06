@@ -1,0 +1,62 @@
+★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★
+MODEL PARAMETERS
+★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★
+
+Team: Inter
+Formation: 4-3-3
+
+★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★
+GOALKEEPERS RATINGS
+★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★
+
+Yann Sommer              : 100 / 100
+Emil Audero              : 11 / 100
+Raffaele Di Gennaro      : 1 / 100
+
+★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★
+DEFENDERS RATINGS
+★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★
+
+Matteo Darmian           : 67 / 100
+Alessandro Bastoni       : 67 / 100
+Federico Dimarco         : 66 / 100
+Francesco Acerbi         : 65 / 100
+Denzel Dumfries          : 51 / 100
+Carlos Augusto           : 50 / 100
+Benjamin Pavard          : 48 / 100
+Stefan de Vrij           : 42 / 100
+Yann Aurel Bisseck       : 26 / 100
+Juan Cuadrado            : 9 / 100
+Tajon Buchanan           : 5 / 100
+
+★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★
+MIDFIELDERS RATINGS
+★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★
+
+Nicolò Barella           : 93 / 100
+Henrikh Mkhitaryan       : 90 / 100
+Hakan Çalhanoğlu         : 81 / 100
+Davide Frattesi          : 33 / 100
+Kristjan Asllani         : 24 / 100
+Davy Klaassen            : 6 / 100
+Stefano Sensi            : 2 / 100
+Ebenezer Akinsanmiro     : 0 / 100
+Lucien Agoume            : 0 / 100
+
+★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★
+FORWARDS RATINGS
+★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★
+
+Lautaro Martínez         : 86 / 100
+Marcus Thuram            : 85 / 100
+Marko Arnautović         : 27 / 100
+Alexis Sánchez           : 25 / 100
+
+★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★
+BEST FORMATION
+★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★
+
+Goalkeeper: Yann Sommer
+Defenders: Matteo Darmian, Alessandro Bastoni, Federico Dimarco, Francesco Acerbi
+Midfielders: Nicolò Barella, Henrikh Mkhitaryan, Hakan Çalhanoğlu
+Attackers: Lautaro Martínez, Marcus Thuram, Marko Arnautović
