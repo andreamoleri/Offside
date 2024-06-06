@@ -9,61 +9,61 @@ Formation: 4-3-3
 GOALKEEPERS RATINGS
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★
 
-Lapo Nava                : 23 / 100
-Mike Maignan             : 11 / 100
-Marco Sportiello         : 11 / 100
-Antonio Mirante          : 11 / 100
+Mike Maignan             : 96 / 100
+Marco Sportiello         : 23 / 100
+Antonio Mirante          : 6 / 100
+Lapo Nava                : 0 / 100
 
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★
 DEFENDERS RATINGS
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★
 
-Theo Hernández           : 7 / 100
-Mattia Caldara           : 7 / 100
-Alessandro Florenzi      : 5 / 100
-Davide Bartesaghi        : 5 / 100
-Davide Calabria          : 4 / 100
-Pierre Kalulu            : 4 / 100
-Jan-Carlo Simic          : 4 / 100
-Alejandro Jiménez        : 4 / 100
-Fikayo Tomori            : 1 / 100
-Malick Thiaw             : 1 / 100
-Matteo Gabbia            : 1 / 100
-Simon Kjær               : 1 / 100
-Filippo Terracciano      : 0 / 100
+Theo Hernández           : 95 / 100
+Davide Calabria          : 71 / 100
+Fikayo Tomori            : 64 / 100
+Alessandro Florenzi      : 57 / 100
+Malick Thiaw             : 49 / 100
+Matteo Gabbia            : 39 / 100
+Simon Kjær               : 35 / 100
+Pierre Kalulu            : 12 / 100
+Jan-Carlo Simic          : 5 / 100
+Davide Bartesaghi        : 2 / 100
+Filippo Terracciano      : 2 / 100
+Alejandro Jiménez        : 2 / 100
+Mattia Caldara           : 1 / 100
 
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★
 MIDFIELDERS RATINGS
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★
 
-Ruben Loftus-Cheek       : 10 / 100
-Tijjani Reijnders        : 9 / 100
-Yacine Adli              : 9 / 100
-Ismaël Bennacer          : 9 / 100
-Kevin Zeroli             : 9 / 100
-Yunus Musah              : 8 / 100
-Tommaso Pobega           : 6 / 100
-Rade Krunić              : 4 / 100
+Tijjani Reijnders        : 100 / 100
+Ruben Loftus-Cheek       : 74 / 100
+Yunus Musah              : 51 / 100
+Yacine Adli              : 49 / 100
+Ismaël Bennacer          : 40 / 100
+Rade Krunić              : 22 / 100
+Tommaso Pobega           : 11 / 100
+Kevin Zeroli             : 1 / 100
 
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★
 FORWARDS RATINGS
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★
 
-Chaka Traorè             : 100 / 100
-Rafael Leão              : 14 / 100
-Christian Pulisic        : 12 / 100
-Samuel Chukwueze         : 11 / 100
-Noah Okafor              : 10 / 100
-Luka Jović               : 9 / 100
-Olivier Giroud           : 7 / 100
-Luka Romero              : 6 / 100
-Francesco Camarda        : 5 / 100
+Christian Pulisic        : 97 / 100
+Rafael Leão              : 96 / 100
+Olivier Giroud           : 81 / 100
+Samuel Chukwueze         : 37 / 100
+Noah Okafor              : 32 / 100
+Luka Jović               : 31 / 100
+Luka Romero              : 3 / 100
+Chaka Traorè             : 2 / 100
+Francesco Camarda        : 0 / 100
 
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★
 BEST FORMATION
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★
 
-Goalkeeper: Lapo Nava
-Defenders: Theo Hernández, Mattia Caldara, Alessandro Florenzi, Davide Bartesaghi
-Midfielders: Ruben Loftus-Cheek, Tijjani Reijnders, Yacine Adli
-Attackers: Chaka Traorè, Rafael Leão, Christian Pulisic
+Goalkeeper: Mike Maignan
+Defenders: Theo Hernández, Davide Calabria, Fikayo Tomori, Alessandro Florenzi
+Midfielders: Tijjani Reijnders, Ruben Loftus-Cheek, Yunus Musah
+Attackers: Christian Pulisic, Rafael Leão, Olivier Giroud

@@ -1,0 +1,64 @@
+★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★
+MODEL PARAMETERS
+★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★
+
+Team: Atalanta
+Formation: 4-3-3
+
+★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★
+GOALKEEPERS RATINGS
+★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★
+
+Marco Carnesecchi        : 90 / 100
+Juan Musso               : 37 / 100
+Francesco Rossi          : 0 / 100
+
+★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★
+DEFENDERS RATINGS
+★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★
+
+Berat Djimsiti           : 85 / 100
+Matteo Ruggeri           : 82 / 100
+Giorgio Scalvini         : 80 / 100
+Sead Kolašinac           : 68 / 100
+Davide Zappacosta        : 64 / 100
+Hans Hateboer            : 37 / 100
+Emil Holm                : 33 / 100
+Rafael Tolói             : 30 / 100
+Isak Hien                : 28 / 100
+Mitchel Bakker           : 13 / 100
+Nadir Zortea             : 6 / 100
+Giovanni Bonfanti        : 3 / 100
+José Luis Palomino       : 1 / 100
+
+★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★
+MIDFIELDERS RATINGS
+★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★
+
+Éderson                  : 100 / 100
+Teun Koopmeiners         : 100 / 100
+Marten de Roon           : 88 / 100
+Mario Pašalić            : 75 / 100
+Aleksei Miranchuk        : 47 / 100
+Michel Ndary Adopo       : 5 / 100
+Leonardo Mendicino       : 0 / 100
+
+★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★
+FORWARDS RATINGS
+★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★
+
+Charles De Ketelaere     : 78 / 100
+Ademola Lookman          : 74 / 100
+Gianluca Scamacca        : 56 / 100
+Luis Muriel              : 16 / 100
+El Bilal Touré           : 14 / 100
+Duván Zapata             : 4 / 100
+
+★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★
+BEST FORMATION
+★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★
+
+Goalkeeper: Marco Carnesecchi
+Defenders: Berat Djimsiti, Matteo Ruggeri, Giorgio Scalvini, Sead Kolašinac
+Midfielders: Éderson, Teun Koopmeiners, Marten de Roon
+Attackers: Charles De Ketelaere, Ademola Lookman, Gianluca Scamacca
