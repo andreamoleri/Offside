@@ -17,34 +17,34 @@ Player #1: Alexis Mac Allister
 Role: MF
 Team: Liverpool
 Born In: 1998
-Delta: 3.76405
+Delta: 3.73581
 
 
 Player #2: John McGinn
 Role: MF,FW
 Team: Aston Villa
 Born In: 1994
-Delta: 4.00463
+Delta: 3.94547
 
 
 Player #3: Conor Gallagher
 Role: MF
 Team: Chelsea
 Born In: 2000
-Delta: 4.17651
+Delta: 4.10331
 
 
 Player #4: Lucas Ocampos
 Role: FW,MF
 Team: Sevilla
 Born In: 1994
-Delta: 4.35679
+Delta: 4.31959
 
 
 Player #5: Destiny Udogie
 Role: DF
 Team: Tottenham
 Born In: 2002
-Delta: 4.43156
+Delta: 4.37257
 
 
