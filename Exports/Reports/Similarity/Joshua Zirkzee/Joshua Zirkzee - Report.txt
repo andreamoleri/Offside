@@ -1,4 +1,4 @@
-The reference player is Olivier Giroud
+The reference player is Joshua Zirkzee
 Below is a list of the players most similar to the player mentioned above,
 ordered from most to least similar via Euclidean distance sampling.
 
@@ -13,38 +13,38 @@ You can also change this setting at any time in the Model Configuration Section.
 
 ─────────────────────────
 
-Player #1: Niclas Füllkrug
-Role: FW
-Team: Dortmund
-Born In: 1993
-Delta: 4.81034
-
-
-Player #2: Antoine Griezmann
-Role: FW,MF
-Team: Atlético Madrid
-Born In: 1991
-Delta: 4.85434
-
-
-Player #3: Victor Osimhen
-Role: FW
-Team: Napoli
+Player #1: Teun Koopmeiners
+Role: MF
+Team: Atalanta
 Born In: 1998
-Delta: 5.01262
+Delta: 2.85092
 
 
-Player #4: Tobias Lauritsen
+Player #2: Omar Marmoush
+Role: FW,MF
+Team: Eint Frankfurt
+Born In: 1999
+Delta: 2.91059
+
+
+Player #3: Arnaud Kalimuendo
 Role: FW
-Team: Sparta R'dam
-Born In: 1997
-Delta: 5.19207
+Team: Rennes
+Born In: 2002
+Delta: 3.14120
 
 
-Player #5: Robert Lewandowski
+Player #4: Eberechi Eze
+Role: MF,FW
+Team: Crystal Palace
+Born In: 1998
+Delta: 3.43116
+
+
+Player #5: Tim Kleindienst
 Role: FW
-Team: Barcelona
-Born In: 1988
-Delta: 5.26568
+Team: Heidenheim
+Born In: 1995
+Delta: 3.47441
 
 

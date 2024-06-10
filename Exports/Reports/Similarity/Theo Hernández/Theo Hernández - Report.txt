@@ -1,4 +1,4 @@
-The reference player is Olivier Giroud
+The reference player is Theo Hernández
 Below is a list of the players most similar to the player mentioned above,
 ordered from most to least similar via Euclidean distance sampling.
 
@@ -13,38 +13,38 @@ You can also change this setting at any time in the Model Configuration Section.
 
 ─────────────────────────
 
-Player #1: Niclas Füllkrug
-Role: FW
-Team: Dortmund
-Born In: 1993
-Delta: 4.81034
-
-
-Player #2: Antoine Griezmann
-Role: FW,MF
-Team: Atlético Madrid
-Born In: 1991
-Delta: 4.85434
-
-
-Player #3: Victor Osimhen
-Role: FW
-Team: Napoli
+Player #1: Alexis Mac Allister
+Role: MF
+Team: Liverpool
 Born In: 1998
-Delta: 5.01262
+Delta: 3.76405
 
 
-Player #4: Tobias Lauritsen
-Role: FW
-Team: Sparta R'dam
-Born In: 1997
-Delta: 5.19207
+Player #2: John McGinn
+Role: MF,FW
+Team: Aston Villa
+Born In: 1994
+Delta: 4.00463
 
 
-Player #5: Robert Lewandowski
-Role: FW
-Team: Barcelona
-Born In: 1988
-Delta: 5.26568
+Player #3: Conor Gallagher
+Role: MF
+Team: Chelsea
+Born In: 2000
+Delta: 4.17651
+
+
+Player #4: Lucas Ocampos
+Role: FW,MF
+Team: Sevilla
+Born In: 1994
+Delta: 4.35679
+
+
+Player #5: Destiny Udogie
+Role: DF
+Team: Tottenham
+Born In: 2002
+Delta: 4.43156
 
 
