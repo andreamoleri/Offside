@@ -17,34 +17,34 @@ Player #1: Niclas Füllkrug
 Role: FW
 Team: Dortmund
 Born In: 1993
-Delta: 4.81034
+Delta: 4.75248
 
 
 Player #2: Antoine Griezmann
 Role: FW,MF
 Team: Atlético Madrid
 Born In: 1991
-Delta: 4.85434
+Delta: 4.81723
 
 
 Player #3: Victor Osimhen
 Role: FW
 Team: Napoli
 Born In: 1998
-Delta: 5.01262
+Delta: 4.96227
 
 
 Player #4: Tobias Lauritsen
 Role: FW
 Team: Sparta R'dam
 Born In: 1997
-Delta: 5.19207
+Delta: 5.13983
 
 
-Player #5: Robert Lewandowski
+Player #5: Tobias Lauritsen
 Role: FW
-Team: Barcelona
-Born In: 1988
-Delta: 5.26568
+Team: Sparta R'dam
+Born In: 1997
+Delta: 5.13983
 
 
