@@ -1,0 +1,50 @@
+The reference player is Francesco Acerbi
+Below is a list of the players most similar to the player mentioned above,
+ordered from most to least similar via Euclidean distance sampling.
+
+
+Please note that the values returned by the model are not filtered by any role.
+You can add or change the role filter in the algorithm configuration section at any time.
+
+
+The league filter is set to display the following teams: Serie A, Premier League, Bundesliga, La Liga, Ligue 1, Eredivisie
+You can also change this setting at any time in the Model Configuration Section.
+
+
+─────────────────────────
+
+Player #1: Matteo Darmian
+Role: DF
+Team: Inter
+Born In: 1989
+Delta: 1.29315
+
+
+Player #2: Bart Vriends
+Role: DF
+Team: Sparta R'dam
+Born In: 1991
+Delta: 1.52542
+
+
+Player #3: Ethan Pinnock
+Role: DF
+Team: Brentford
+Born In: 1993
+Delta: 1.62547
+
+
+Player #4: Chancel Mbemba
+Role: DF
+Team: Marseille
+Born In: 1994
+Delta: 1.85787
+
+
+Player #5: Thiago Silva
+Role: DF
+Team: Chelsea
+Born In: 1984
+Delta: 1.86608
+
+
